@@ -17,4 +17,4 @@ The project will face these challenges by proposing innovative solutions based o
 
 We foresee that the fulfillment of the aforementioned goals will lead to the creation of an innovative smart walker that is able to interpret the user's intentions, and at the same time, suggest and support safe navigation. Furthermore, we expect that the enhancement of the coupling between user and walker will facilitate the ease of use, and thus, the user’s trust in the robotic device.
 
-![project pipeline](https://lh5.googleusercontent.com/JgH7gDo9Vry4xHv5lEG_FuXsv8RjGln-MGWR34QHEoBGJI8-73dPrSNcSdGnu9dHUx7Z-ZgyNrS9TLTacBYvPIPfb6VjXZ0Q_cP8I0y56DgKQOqra7vEU1S0J28sfaEwhg=w1280)
+![project pipeline](https://github.com/EasyWalk-PRIN/.github/blob/fcb0597545149bcc98e4aad1323b04fd7b160e46/profile/easywalk_flow.png)
